@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9c298d9-e7ae-447c-b74d-ad420f86ba00" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>page-body</find>
+      <find>html.a</find>
+      <find>wrap</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/students/inc/right_sidebar.php" />
+        <option value="$PROJECT_DIR$/students/inc/main_content.php" />
+        <option value="$PROJECT_DIR$/students/inc/login_footer.php" />
+        <option value="$PROJECT_DIR$/students/signin_process.php" />
+        <option value="$PROJECT_DIR$/students/sign_in_process.php" />
+        <option value="$PROJECT_DIR$/assets/stylesheets/css/style.css" />
+        <option value="$PROJECT_DIR$/students/inc/footer.php" />
+        <option value="$PROJECT_DIR$/students/test.php" />
+        <option value="$PROJECT_DIR$/students/inc/left_sidebar.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/signin_footer.php" />
+        <option value="$PROJECT_DIR$/students/sign-in.php" />
+        <option value="$PROJECT_DIR$/librarian/sign_in.php" />
+        <option value="$PROJECT_DIR$/students/log_in.php" />
+        <option value="$PROJECT_DIR$/students/inc/header.php" />
+        <option value="$PROJECT_DIR$/students/dashboard.php" />
+        <option value="$PROJECT_DIR$/students/index.php" />
+        <option value="$PROJECT_DIR$/students/logout.php" />
+        <option value="$PROJECT_DIR$/students/inc/login_head.php" />
+        <option value="$PROJECT_DIR$/librarian/dashboard.php" />
+        <option value="$PROJECT_DIR$/librarian/logout.php" />
+        <option value="$PROJECT_DIR$/students/register.php" />
+        <option value="$PROJECT_DIR$/librarian/index.php" />
+        <option value="$PROJECT_DIR$/students/inc/head.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/librian_footer.php" />
+        <option value="$PROJECT_DIR$/assets/javascripts/examples/dashboard.js" />
+        <option value="$PROJECT_DIR$/students/student_login.php" />
+        <option value="$PROJECT_DIR$/librarian/students.php" />
+        <option value="$PROJECT_DIR$/librarian/status_inactive.php" />
+        <option value="$PROJECT_DIR$/librarian/status_active.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/libraian_left_sidebar.php" />
+        <option value="$PROJECT_DIR$/librarian/libraian_signin.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/libraian_head.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/signin_head.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/libraian_header.php" />
+        <option value="$PROJECT_DIR$/librarian/delete.php" />
+        <option value="$PROJECT_DIR$/librarian/add_book.php" />
+        <option value="$PROJECT_DIR$/librarian/manage_books.php" />
+        <option value="$PROJECT_DIR$/librarian/issue_book.php" />
+        <option value="$PROJECT_DIR$/librarian/inc/librarian_left_sidebar.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/vendor/particles-js/app.js" />
+        <option value="$PROJECT_DIR$/assets/vendor/style.css" />
+        <option value="$PROJECT_DIR$/database/db.php" />
+        <option value="$PROJECT_DIR$/librarian/book_issue.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="13" />
+    <option name="y" value="83" />
+    <option name="width" value="1296" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="library-management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library-management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-management" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library-management" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-management" type="462c0819:PsiDirectoryNode" />
+              <item name="librarian" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9c298d9-e7ae-447c-b74d-ad420f86ba00" name="Default" comment="" />
+      <created>1570381984007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570381984007</updated>
+      <workItem from="1570381985690" duration="15300000" />
+      <workItem from="1570425502016" duration="6867000" />
+      <workItem from="1570520040447" duration="527000" />
+      <workItem from="1570521365549" duration="6000" />
+      <workItem from="1570521407888" duration="145000" />
+      <workItem from="1570521584885" duration="6218000" />
+      <workItem from="1570540125166" duration="22541000" />
+      <workItem from="1570592013564" duration="20210000" />
+      <workItem from="1570625546986" duration="12332000" />
+      <workItem from="1570677615881" duration="16891000" />
+      <workItem from="1570705327940" duration="9590000" />
+      <workItem from="1570715836481" duration="4882000" />
+      <workItem from="1570725283736" duration="2957000" />
+      <workItem from="1570731267831" duration="2496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120962000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/librarian/manage_books.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/issue_book.php" />
+    <entry file="file://$PROJECT_DIR$/students/register.php" />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/style.css" />
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/students/register.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/login_head.php" />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/style.css" />
+    <entry file="file://$PROJECT_DIR$/students/inc/right_sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/students/inc/login_footer.php" />
+    <entry file="file://$PROJECT_DIR$/students/dashboard.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/dashboard.php" />
+    <entry file="file://$PROJECT_DIR$/students/logout.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/login_head.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/student_footer.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/student_left_sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/main_content.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/logout.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/student_head.php" />
+    <entry file="file://$PROJECT_DIR$/students/index.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/scripts.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/inc/signin_footer.php" />
+    <entry file="file://$PROJECT_DIR$/students/sign_in_process.php" />
+    <entry file="file://$PROJECT_DIR$/students/inc/student_header.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/inc/librarian_footer.php" />
+    <entry file="file://$PROJECT_DIR$/students/test.php" />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/magnific-popup/magnific-popup.css" />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/magnific-popup/jquery.magnific-popup.min.js" />
+    <entry file="file://$PROJECT_DIR$/assets/javascripts/examples/dashboard.js" />
+    <entry file="file://$PROJECT_DIR$/librarian/status_active.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/status_inactive.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/uploads/20191009084337.477.jpg" />
+    <entry file="file://$PROJECT_DIR$/students/student_login.php" />
+    <entry file="file://$PROJECT_DIR$/students/register.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/delete.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/add_book.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/inc/signin_head.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/librarian_signin.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/inc/librarian_head.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/manage_books.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/index.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/inc/librarian_left_sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/inc/librarian_header.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/students.php" />
+    <entry file="file://$PROJECT_DIR$/librarian/issue_book.php" />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/particles-js/app.js" />
+    <entry file="file://$PROJECT_DIR$/assets/vendor/style.css" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/database/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/librarian/book_issue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

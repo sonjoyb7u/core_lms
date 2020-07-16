@@ -1,0 +1,179 @@
+/*
+* {
+    margin: 0;
+    padding: 0;
+}
+*/
+
+body {
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+/*#lib-std {*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background-color: indianred;*/
+/*}*/
+.lib_mng_sys h1 {
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    padding: 0;
+    margin: 0;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+
+}
+.lib_mng_sys h1 span {
+    color: darkmagenta;
+}
+.lib_stu a {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.stu_lib_img img {
+    width: 100%;
+    height: 642px;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.std_lib {
+    position: relative;
+}
+.stu_lib_img {
+    width: 100%;
+    height: 642px;
+}
+#lib-std {
+    content: "";
+    position: absolute;
+    background: #126F5a;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 642px;
+
+}
+.lib_stu {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+
+}
+
+.logo a h3 {
+    line-height: 18px;
+    font-weight: bold;
+}
+
+
+.reg-logo h2 {
+    margin-top: -70px;
+    color: #fff;
+    
+}
+.lib-logo h2 {
+    margin-top: 100px;
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.std-logo h2 {
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.input_errors {
+    color: darkred;
+}
+.alert .alert-success .alert-msg-box {
+    margin-top: 10px;
+}
+html.accounts .logo {
+/*    margin-top: 120px;*/
+}
+
+.lib-login {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+.std-login {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+.reg-std {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+html.accounts .page-body {
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+
+.book-name {
+	margin-top: 12px;
+}
+
+.print-page-content {
+    width: 750px;
+    height: 1100px;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 50px;
+    page-break-after: always;
+    font-family: kalpurush;
+}
+.header, .data-info {
+    text-align: center;
+}
+.header h2 {
+    margin: 0;
+    
+}
+.header h3 {
+    margin: 0 0 10px 0;
+    
+}
+.data-info {
+    
+}
+.data-info table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.data-info table tr {
+    
+}
+.data-info table th,
+.data-info table td {
+    border: 1px solid #000;
+    padding: 5px;
+    line-height: 1;
+}
+
+
